@@ -1,10 +1,3 @@
-﻿/*
- * uart.h
- *
- * Created: 24/03/2017 11:15:41 ص
- *  Author: alhamd2017
- */
-
 #ifndef _UART_H_
 #define _UART_H_
 
